@@ -5,8 +5,8 @@
 $plugins = array();
 
 $tmp = array(/*
-    'modExtra' => array(
-        'file' => 'modextra',
+    'sendex' => array(
+        'file' => 'sendex',
         'description' => '',
         'events' => array(
             'OnManagerPageInit' => array()

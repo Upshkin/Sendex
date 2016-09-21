@@ -5,7 +5,7 @@
 $chunks = array();
 
 $tmp = array(
-    'tpl.modExtra.item' => array(
+    'tpl.sendex.item' => array(
         'file' => 'item',
         'description' => '',
     ),
